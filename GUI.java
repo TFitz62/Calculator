@@ -3,6 +3,7 @@ import java.awt.event.*;
 import java.util.ArrayList;
 import javax.swing.*;
 
+//Calculator
 public class GUI implements ActionListener {
 
     private enum Actions{
