@@ -1,2 +1,2 @@
 # Calculator
-Calculator similar to the Windows 10 calculator app
+Fully functional calculator similar to the Windows 10 calculator app
